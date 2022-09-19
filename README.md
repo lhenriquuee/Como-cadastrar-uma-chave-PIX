@@ -28,7 +28,7 @@ O recebedor também pode gerar **QR Codes**, para facilitar o compartilhamento d
 
 O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco desejado. Dessa forma, todos os valores das transferências serão disponibilizados na própria conta do banco. 
 
-1. Acesse o Aplicativo ou Site do Banco
+1. Acesse o aplicativo ou site do seu Banco
 2. Clique em **"Pix"** na tela principal
 
 <img src="https://user-images.githubusercontent.com/112604748/191030040-dccafdbf-2678-4065-b689-3330bc5bc74e.png"    width="250px" />
