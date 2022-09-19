@@ -11,11 +11,15 @@ Por exemplo, nas transferências tradicionais feitas via DOC e TED, é necessár
 
 Com o Pix, as transferências poderão ser recebidas a partir de **um único dado** como o número de celular ou CPF de uma forma mais _simples e ágil_.
 
-E para utilizar esta forma de pagamento, é preciso cadastrar uma ***chave Pix*** que será o identificador para realizar e receber as transições financeiras. 
-
 ## Como cadastrar uma chave Pix ?
 
-Para começar a receber transferências utilizando **apenas um dado**, primeiramente é preciso cadastrar as chaves Pix no aplicativo ou site do banco. 
+Para utilizar esta forma de pagamento, é preciso cadastrar uma ***chave Pix*** que será o identificador para enviar ou receber as transições financeiras. 
 
-Dessa forma, todos os valores das transferências recebidas utilizando essas chaves serão disponibilizados na conta do banco. 
+O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco desejado. Dessa forma, todos os valores das transferências serão disponibilizados na própria conta do banco. 
+
+As opções para cadastro de chave Pix são:
+* CPF / CNPJ
+* E-mail
+* Celular
+* Chave aleatória (código gerado automaticamente pela própria instituição bancária)
 
