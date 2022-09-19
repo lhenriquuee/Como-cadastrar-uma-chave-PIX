@@ -63,6 +63,6 @@ O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco 
 
 11. Ao final do cadastro, você receberá uma mensagem confirmando a configuração da chave Pix.
 
-
+<img src="https://user-images.githubusercontent.com/112604748/191049814-9bf15627-cd78-400b-9643-5e7118321594.jpeg"  width="250px" />
 
 Feito isso, a sua chave Pix estará pronta para ser utilizada e você já pode receber ou enviar transações financeiras. 
