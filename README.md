@@ -15,14 +15,13 @@ Com o Pix, as transferências poderão ser recebidas a partir de **um único dad
 
 Para utilizar esta forma de pagamento, é preciso cadastrar uma ***chave Pix*** que será o identificador para enviar ou receber as transições financeiras. 
 
-O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco desejado. Dessa forma, todos os valores das transferências serão disponibilizados na própria conta do banco. 
-
-As opções para cadastro de chave Pix são:
-* CPF / CNPJ
+As opções disponíveis para cadastro da chave Pix são:
+* CPF ou CNPJ
 * E-mail
 * Celular
-* Chave aleatória (código gerado automaticamente pela própria instituição bancária)
-* O recebedor também pode gerar QR Codes.
+* Chave aleatória (gerado automaticamente pela própria instituição bancária)
 
+O recebedor também pode gerar QR Codes, para facilitar o compartilhamento de dados para pagamento. 
 
+O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco desejado. Dessa forma, todos os valores das transferências serão disponibilizados na própria conta do banco. 
 
