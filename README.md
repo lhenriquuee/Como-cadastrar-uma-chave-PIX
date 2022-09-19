@@ -29,20 +29,20 @@ O recebedor também pode gerar **QR Codes**, para facilitar o compartilhamento d
 O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco desejado. Dessa forma, todos os valores das transferências serão disponibilizados na própria conta do banco. 
 
 1. Acesse o Aplicativo ou Site do Banco
-2. Clique em **Pix** na tela principal
+2. Clique em **"Pix"** na tela principal
 
-<img src="https://user-images.githubusercontent.com/112604748/191027513-626dfda7-0a50-4314-91b0-59f1a5f8c630.png"    width="250px" />
+<img src="https://user-images.githubusercontent.com/112604748/191030040-dccafdbf-2678-4065-b689-3330bc5bc74e.png"    width="250px" />
 
-3. Clique em **Minhas Chaves**
+3. Clique em **"Minhas Chaves"**
 
 <img src="https://user-images.githubusercontent.com/112604748/191029228-7bc29b1f-9aa0-4c98-8f1c-2ebf63d1a4c0.png"    width="250px" />
 
 
-4. Clique em **Cadastrar Chave**
+4. Clique em **"Cadastrar Chave"**
 5. Selecione um tipo de conta (Conta Corrente ou Conta Poupança) 
 6. Escolha uma opção para cadastrar a chave Pix (CPF, Celular, E-mail, Chave aleatória) 
 7. Preencha os campos com as informações necessárias para a chave Pix
-8. Clique em **Continuar para Validação**
+8. Clique em **"Continuar para Validação"**
 9. Digite sua senha online do Banco 
 10. Clique em **Finalizar Cadastro** para confirmar a transação
 11. Ao final do cadastro, você receberá uma mensagem confirmando a configuração da chave Pix.
