@@ -34,6 +34,10 @@ O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco 
 <img src="https://user-images.githubusercontent.com/112604748/191027513-626dfda7-0a50-4314-91b0-59f1a5f8c630.png"    width="250px" />
 
 3. Clique em **Minhas Chaves**
+
+<img src="https://user-images.githubusercontent.com/112604748/191029228-7bc29b1f-9aa0-4c98-8f1c-2ebf63d1a4c0.png"    width="250px" />
+
+
 4. Clique em **Cadastrar Chave**
 5. Selecione um tipo de conta (Conta Corrente ou Conta Poupança) 
 6. Escolha uma opção para cadastrar a chave Pix (CPF, Celular, E-mail, Chave aleatória) 
