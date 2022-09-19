@@ -22,4 +22,7 @@ As opções para cadastro de chave Pix são:
 * E-mail
 * Celular
 * Chave aleatória (código gerado automaticamente pela própria instituição bancária)
+* O recebedor também pode gerar QR Codes.
+
+
 
