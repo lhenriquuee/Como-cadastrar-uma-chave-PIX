@@ -7,6 +7,7 @@
 ## Estrutura das Informações
 * [Conteúdo Abordado](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#conte%C3%BAdo-abordado)
 * [Arquitetura das Informações](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#arquitetura-das-informa%C3%A7%C3%B5es)
+* [Referências](https://github.com/lhenriquuee/pix-tutorial/edit/main/README.md#refer%C3%AAncias)
 
 # Pix
 ## O que é o Pix ?
@@ -102,6 +103,11 @@ A proposta é desenvolver uma página com Menus e Submenus que facilitem a busca
 É possível identificar que cada informação está bem distribuída nas divisões de Menus e Submenus da página e também pode ser bem detalhada em cada bloco de informação específica sobre o assunto. 
 
 Um outro exemplo que utiliza este padrão na arquitetura das informações para documentação, é a página do Style Guide do Google. [Clique aqui](https://developers.google.com/style) para ver mais. 
+
+# Referências
+Para a elaboração deste repositório, foram utilizados os seguintes sites como referência: 
+* [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix)
+* [Banco Itau](https://www.itau.com.br/pix?gclid=CjwKCAjwyaWZBhBGEiwACslQo42Z3CfJ2Lj5MnGxnZRGB6RDhPP6Fa2LmXSXYHu9cFoP2wl5CUOfUxoCYTgQAvD_BwE&ef_id=CjwKCAjwyaWZBhBGEiwACslQo42Z3CfJ2Lj5MnGxnZRGB6RDhPP6Fa2LmXSXYHu9cFoP2wl5CUOfUxoCYTgQAvD_BwE:G:s&s_kwcid=AL!905!3!!!!x!!)
 
 
 
