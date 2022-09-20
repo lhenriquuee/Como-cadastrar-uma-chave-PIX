@@ -1,12 +1,12 @@
 # Sumário
-* ## Pix
+## Pix
 * [O que é o Pix ?](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#o-que-%C3%A9-o-pix-)
-* Por que utilizar o Pix ?
-* Chave Pix
-* Como cadastrar uma chave Pix ?
-* ## Estrutura das Informações
-* Conteúdo Abordado
-* Arquitetura das Informações
+* [Por que utilizar o Pix ?](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#por-que-utilizar-o-pix-)
+* [Chave Pix](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#chave-pix)
+* [Como cadastrar uma chave Pix ?](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#como-cadastrar-uma-chave-pix-)
+## Estrutura das Informações
+* [Conteúdo Abordado](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#conte%C3%BAdo-abordado)
+* [Arquitetura das Informações](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#arquitetura-das-informa%C3%A7%C3%B5es)
 
 # Pix
 ## O que é o Pix ?
