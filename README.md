@@ -71,9 +71,7 @@ Feito isso, a sua chave Pix estará pronta para ser utilizada e você já pode r
 # Gestão da Documentação
 
 ## Estrutura das Informações
-
-
-
+Para a elaboração desta documentação, sugeri fragmentar o tema principal em tópicos conceituais e informativos, de modo que facilitassem o entendimento. Então, foram utilizados Títulos estratégicos, com as devidas quebras de página em determinados assuntos e locais adequados, para possibilitar o entendimento
 
 
 
