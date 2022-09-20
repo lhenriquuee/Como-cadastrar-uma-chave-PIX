@@ -85,7 +85,11 @@ E no tópico para cadastro da Chave Pix no Aplicativo, foram listadas as etapas 
  
 Para estruturar uma página que transmita informações sobre o produto, é preciso dividir o tema em *conceitos* e *instruções*. E com isso, é indicado que a página tenha divisões que facilitem o entendimento. 
 
-A proposta é desenvolver uma página com Menus e Submenus que facilitem a busca pelas informações relacionadas ao produto. Por exemplo, um menu lateral que subdivida informações sobre um determinado assunto, conforme o exemplo abaixo de documentação da Zenvia: 
+A proposta é desenvolver uma página com Menus e Submenus que facilitem a busca pelas informações relacionadas ao produto. Por exemplo, um menu lateral que subdivida informações sobre um determinado assunto, conforme o exemplo abaixo de documentação do site da Zenvia: 
+
+<img src="https://user-images.githubusercontent.com/112604748/191263633-b4c71960-f926-4d23-9d4d-f55847024fc2.png"  width="600px" />
+
+É possível identificar que a informação está bem distribuida nas divisões de Menus e Submenus e também está bem detalhada nas descrições: 
 
 
 
