@@ -109,7 +109,7 @@ Para a elaboração deste repositório, foram utilizados os seguintes sites como
 * [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 * [Banco Itau](https://www.itau.com.br/pix?gclid=CjwKCAjwyaWZBhBGEiwACslQo42Z3CfJ2Lj5MnGxnZRGB6RDhPP6Fa2LmXSXYHu9cFoP2wl5CUOfUxoCYTgQAvD_BwE&ef_id=CjwKCAjwyaWZBhBGEiwACslQo42Z3CfJ2Lj5MnGxnZRGB6RDhPP6Fa2LmXSXYHu9cFoP2wl5CUOfUxoCYTgQAvD_BwE:G:s&s_kwcid=AL!905!3!!!!x!!)
 * [Google Developer Documentation Style Guide](https://developers.google.com/style)
-* [Write the Docs] (https://www.writethedocs.org/guide/writing/style-guides/#style-for-developers)
+* [Write the Docs](https://www.writethedocs.org/guide/writing/style-guides/#style-for-developers)
 * [Zenvia](https://zenvia.github.io/zenvia-openapi-spec/v2/)
 
 
