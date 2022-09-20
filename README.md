@@ -76,9 +76,9 @@ Para a elaboração desta documentação, sugeri fragmentar o tema principal *(C
 
 Além disso, foram utilizados Títulos e Subtítulos estratégicos, com as devidas quebras de página em determinados assuntos e locais adequados, facilitando a identificação e possibilitando o entendimento com clareza.
 
-Foram utilizadas Listas, para informar as opções disponíveis que podem ser utilizadas no cadastro da Chave Pix. 
+Foi definido o formato de **Listas**, para informar as opções de Chaves podem ser utilizadas para realizar o cadastro.  
 
-E no tópico para cadastro da Chave Pix no Aplicativo, foram informadas as etapas em formato de tutorial listando todos os processos e exemplificados por imagens. 
+E no tópico para cadastro da Chave Pix no Aplicativo, foram listadas as etapas em formato de **tutorial** exemplificandos por imagens, detalhando o que deve ser feito em cada etapa do processo. 
 
 
 ## Arquitetura das Informações
