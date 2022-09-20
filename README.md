@@ -1,3 +1,13 @@
+# Sumário
+* ## Pix
+* O que é o Pix ?
+* Por que utilizar o Pix ?
+* Chave Pix
+* Como cadastrar uma chave Pix ?
+* ## Estrutura das Informações
+* Conteúdo Abordado
+* Arquitetura das Informações
+
 # Pix
 ## O que é o Pix ?
 
@@ -91,7 +101,7 @@ A proposta é desenvolver uma página com Menus e Submenus que facilitem a busca
 
 É possível identificar que cada informação está bem distribuida nas divisões de Menus e Submenus da página e também pode ser bem detalhada em cada bloco de informação específica sobre o assunto. 
 
-Da mesma forma, como é feita a arquitetura das informações para a página do Style Guide do Google. [Clique aqui](https://developers.google.com/style) para ver mais. 
+Um outro exemplo que utiliza este padrão na arquitetura das informações para documentação, é a página do Style Guide do Google. [Clique aqui](https://developers.google.com/style) para ver mais. 
 
 
 
