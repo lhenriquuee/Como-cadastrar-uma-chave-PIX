@@ -68,4 +68,14 @@ O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco 
 Feito isso, a sua chave Pix estará pronta para ser utilizada e você já pode receber ou enviar transações financeiras. 
 
 
-# Estrutura da Informação
+# Gestão da Documentação
+
+## Estrutura das Informações
+
+
+
+
+
+
+## Conteúdo Abordado
+
