@@ -17,14 +17,14 @@ O Pix é uma forma de pagamento eletrônico criada pelo Banco Central que foi im
 
 Essa solução oferece praticidade, agilidade e segurança para as pessoas físicas e jurídicas que utilizam a internet para realizar suas transações bancárias. Porque permite uma simplificação dos dados da sua conta. Com o Pix, é possível receber transferências e pagamentos sem precisar informar todos os dados de agência e conta. 
 
-Por exemplo, nas transferências tradicionais feitas via DOC e TED, é necessário compartilhar **diversas informações** como _Instituição Bancária, Nome, Agência, Conta e CPF ou CNPJ_, que podiam ocasionar falhas no momento do compartilhamento de informações. 
+Por exemplo, nas transferências tradicionais feitas via DOC e TED, é necessário compartilhar **diversas informações** como _Instituição Bancária, Nome, Agência, Conta e CPF ou CNPJ_, que podem ocasionar falhas no momento do compartilhamento de informações. 
 
 Com o Pix, as transferências poderão ser recebidas a partir de **um único dado** como o número de celular ou CPF de uma forma mais _simples e ágil_.
 
 
 # Chave Pix 
 
-Para utilizar esta forma de pagamento, é preciso cadastrar uma ***chave Pix*** que será o identificador para enviar ou receber as transições financeiras. 
+Para utilizar esta forma de pagamento, é preciso cadastrar uma ***chave Pix*** que será o identificador para enviar ou receber as transações financeiras. 
 
 As opções disponíveis para cadastro da chave Pix são:
 * CPF ou CNPJ
@@ -88,7 +88,7 @@ Além disso, foram utilizados Títulos e Subtítulos estratégicos, com as devid
 
 Foi definido o formato de **Listas**, para informar as opções de Chaves podem ser utilizadas para realizar o cadastro.  
 
-E no tópico para cadastro da Chave Pix no Aplicativo, foram listadas as etapas em formato de **tutorial** exemplificados por imagens, detalhando o que deve ser feito em cada etapa do processo. 
+E no tópico para cadastro da Chave Pix no Aplicativo, foram listadas as etapas em formato de **tutorial** exemplificadas por imagens, detalhando o que deve ser feito em cada etapa do processo. 
 
 
 ## Arquitetura das Informações
@@ -99,7 +99,7 @@ A proposta é desenvolver uma página com Menus e Submenus que facilitem a busca
 
 <img src="https://user-images.githubusercontent.com/112604748/191263633-b4c71960-f926-4d23-9d4d-f55847024fc2.png"  width="600px" />
 
-É possível identificar que cada informação está bem distribuida nas divisões de Menus e Submenus da página e também pode ser bem detalhada em cada bloco de informação específica sobre o assunto. 
+É possível identificar que cada informação está bem distribuída nas divisões de Menus e Submenus da página e também pode ser bem detalhada em cada bloco de informação específica sobre o assunto. 
 
 Um outro exemplo que utiliza este padrão na arquitetura das informações para documentação, é a página do Style Guide do Google. [Clique aqui](https://developers.google.com/style) para ver mais. 
 
