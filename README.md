@@ -78,9 +78,15 @@ Além disso, foram utilizados Títulos e Subtítulos estratégicos, com as devid
 
 Foi definido o formato de **Listas**, para informar as opções de Chaves podem ser utilizadas para realizar o cadastro.  
 
-E no tópico para cadastro da Chave Pix no Aplicativo, foram listadas as etapas em formato de **tutorial** exemplificandos por imagens, detalhando o que deve ser feito em cada etapa do processo. 
+E no tópico para cadastro da Chave Pix no Aplicativo, foram listadas as etapas em formato de **tutorial** exemplificados por imagens, detalhando o que deve ser feito em cada etapa do processo. 
 
 
 ## Arquitetura das Informações
  
-Supondo que essas informações fossem contempladas em uma página, seria preciso estruturar 
+Para estruturar uma página que transmita informações sobre o produto, é preciso dividir o tema em *conceitos* e *instruções*. E com isso, é indicado que a página tenha divisões que facilitem o entendimento. 
+
+A proposta é desenvolver uma página com Menus e Submenus que facilitem a busca pelas informações relacionadas ao produto. Por exemplo, um menu lateral que subdivida informações sobre um determinado assunto, conforme o exemplo abaixo de documentação da Zenvia: 
+
+
+
+
