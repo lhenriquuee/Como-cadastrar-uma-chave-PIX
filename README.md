@@ -7,7 +7,7 @@
 ## Estrutura das Informações
 * [Conteúdo Abordado](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#conte%C3%BAdo-abordado)
 * [Arquitetura das Informações](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#arquitetura-das-informa%C3%A7%C3%B5es)
-* [Referências](https://github.com/lhenriquuee/pix-tutorial/edit/main/README.md#refer%C3%AAncias)
+* [Referências](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#refer%C3%AAncias)
 
 # Pix
 ## O que é o Pix ?
