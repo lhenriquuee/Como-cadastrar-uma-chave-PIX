@@ -68,12 +68,19 @@ O cadastro da chave Pix é realizado diretamente no aplicativo ou site do banco 
 Feito isso, a sua chave Pix estará pronta para ser utilizada e você já pode receber ou enviar transações financeiras. 
 
 
-# Gestão da Documentação
-
-## Estrutura das Informações
-Para a elaboração desta documentação, sugeri fragmentar o tema principal em tópicos conceituais e informativos, de modo que facilitassem o entendimento. Então, foram utilizados Títulos estratégicos, com as devidas quebras de página em determinados assuntos e locais adequados, para possibilitar o entendimento
-
-
+# Estrutura das Informações
 
 ## Conteúdo Abordado
 
+Para a elaboração desta documentação, sugeri fragmentar o tema principal *(Como configurar a sua chave Pix?)*, em tópicos conceituais *(O que é o Pix?)* e informativos *(Por que utilizar o Pix ?)*, de modo que facilitassem o entendimento. 
+
+Além disso, foram utilizados Títulos e Subtítulos estratégicos, com as devidas quebras de página em determinados assuntos e locais adequados, facilitando a identificação e possibilitando o entendimento com clareza.
+
+Foram utilizadas Listas, para informar as opções disponíveis que podem ser utilizadas no cadastro da Chave Pix. 
+
+E no tópico para cadastro da Chave Pix no Aplicativo, foram informadas as etapas em formato de tutorial listando todos os processos e exemplificados por imagens. 
+
+
+## Arquitetura das Informações
+ 
+Supondo que essas informações fossem contempladas em uma página, seria preciso estruturar 
