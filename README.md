@@ -104,7 +104,7 @@ A proposta é desenvolver uma página com Menus e Submenus que facilitem a busca
 
 Um outro exemplo que utiliza este padrão na arquitetura das informações para documentação, é a página do Style Guide do Google. [Clique aqui](https://developers.google.com/style) para ver mais. 
 
-# Referências
+## Referências
 Para a elaboração deste repositório, foram utilizados os seguintes sites como referência: 
 * [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 * [Banco Itau](https://www.itau.com.br/pix?gclid=CjwKCAjwyaWZBhBGEiwACslQo42Z3CfJ2Lj5MnGxnZRGB6RDhPP6Fa2LmXSXYHu9cFoP2wl5CUOfUxoCYTgQAvD_BwE&ef_id=CjwKCAjwyaWZBhBGEiwACslQo42Z3CfJ2Lj5MnGxnZRGB6RDhPP6Fa2LmXSXYHu9cFoP2wl5CUOfUxoCYTgQAvD_BwE:G:s&s_kwcid=AL!905!3!!!!x!!)
