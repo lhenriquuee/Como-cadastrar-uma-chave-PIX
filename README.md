@@ -1,6 +1,6 @@
 # Sumário
 * ## Pix
-* O que é o Pix ?
+* [O que é o Pix ?](https://github.com/lhenriquuee/pix-tutorial/blob/main/README.md#o-que-%C3%A9-o-pix-)
 * Por que utilizar o Pix ?
 * Chave Pix
 * Como cadastrar uma chave Pix ?
